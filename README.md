@@ -64,3 +64,4 @@ This theme is based off of the lovely [Bear Blog](https://github.com/HermanMarti
 #### Section 6 - Server Side Rendering and Endpoints
 
 -   feat 1: Static Restful API
+-   feat 2: GET - Obtain all posts
