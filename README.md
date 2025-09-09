@@ -8,12 +8,12 @@ npm create astro@latest -- --template blog
 
 Features:
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+-   ✅ Minimal styling (make it your own!)
+-   ✅ 100/100 Lighthouse performance
+-   ✅ SEO-friendly with canonical URLs and OpenGraph data
+-   ✅ Sitemap support
+-   ✅ RSS Feed support
+-   ✅ Markdown & MDX support
 
 ## 🚀 Project Structure
 
@@ -60,3 +60,5 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 ## Credit
 
 This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+
+#### Section 6 - Server Side Rendering and Endpoints
