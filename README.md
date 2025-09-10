@@ -68,3 +68,4 @@ This theme is based off of the lovely [Bear Blog](https://github.com/HermanMarti
 -   feat 3: SSR Adapters
     -   [Add Integrations -> Node](https://docs.astro.build/en/guides/integrations-guide/)
 -   feat 4: Query Parameters - Optional
+-   feat 5: Route Segments - Params
