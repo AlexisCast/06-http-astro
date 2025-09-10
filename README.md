@@ -67,3 +67,4 @@ This theme is based off of the lovely [Bear Blog](https://github.com/HermanMarti
 -   feat 2: GET - Obtain all posts
 -   feat 3: SSR Adapters
     -   [Add Integrations -> Node](https://docs.astro.build/en/guides/integrations-guide/)
+-   feat 4: Query Parameters - Optional
