@@ -78,3 +78,4 @@ This theme is based off of the lovely [Bear Blog](https://github.com/HermanMarti
 
 -   feat 8: Astro DB
     -   [Astro DB](https://docs.astro.build/en/guides/astro-db/)
+-   feat 9: Create Clients Table
