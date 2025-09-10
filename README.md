@@ -73,3 +73,8 @@ This theme is based off of the lovely [Bear Blog](https://github.com/HermanMarti
 -   feat 7: Deploy to Cloudflare
     -   [cloudflare](https://www.cloudflare.com/)
     -   [Official Integrations](https://docs.astro.build/en/guides/integrations-guide/)
+
+#### Section 7 - ASTRO DB
+
+-   feat 8: Astro DB
+    -   [Astro DB](https://docs.astro.build/en/guides/astro-db/)

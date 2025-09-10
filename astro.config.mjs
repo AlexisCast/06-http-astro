@@ -6,18 +6,13 @@ import { defineConfig } from "astro/config";
 
 import cloudflare from "@astrojs/cloudflare";
 
-// import node from "@astrojs/node";
+import db from "@astrojs/db";
 
 // https://astro.build/config
 export default defineConfig({
 	site: "https://example.com",
 
-	// for SSR
-	// output: "static",
-	// adapter: node({
-	// 	mode: "standalone",
-	// }),
-	integrations: [mdx(), sitemap()],
+	integrations: [mdx(), sitemap(), db()],
 
 	adapter: cloudflare(),
 });
