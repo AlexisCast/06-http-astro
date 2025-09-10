@@ -69,3 +69,4 @@ This theme is based off of the lovely [Bear Blog](https://github.com/HermanMarti
     -   [Add Integrations -> Node](https://docs.astro.build/en/guides/integrations-guide/)
 -   feat 4: Query Parameters - Optional
 -   feat 5: Route Segments - Params
+-   feat 6: Post, Put, Delete Endpoints
