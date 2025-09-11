@@ -83,3 +83,5 @@ This theme is based off of the lovely [Bear Blog](https://github.com/HermanMarti
 -   feat 11: CRUD with Astro DB - POST & GET
 -   feat 12: CRUD with Astro DB - PATCH & DELETE
     -   [Drizzle utilities](https://docs.astro.build/en/guides/astro-db/#drizzle-utilities)
+-   feat 13: Turso
+    -   [Turso](https://docs.astro.build/en/guides/astro-db/#connect-a-libsql-database-for-production)
