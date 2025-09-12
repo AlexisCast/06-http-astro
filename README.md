@@ -85,3 +85,4 @@ This theme is based off of the lovely [Bear Blog](https://github.com/HermanMarti
     -   [Drizzle utilities](https://docs.astro.build/en/guides/astro-db/#drizzle-utilities)
 -   feat 13: Turso
     -   [Turso](https://docs.astro.build/en/guides/astro-db/#connect-a-libsql-database-for-production)
+-   feat 14: GET individual client - Turso
