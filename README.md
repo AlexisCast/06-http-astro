@@ -89,3 +89,4 @@ This theme is based off of the lovely [Bear Blog](https://github.com/HermanMarti
 -   feat 15: Deploy to Vercel
     -   [@astrojs/vercel](https://docs.astro.build/en/guides/integrations-guide/vercel/)
     -   [Website UI deployment](https://docs.astro.build/en/guides/deploy/vercel/#how-to-deploy)
+    - in vercel/project-name/settings/domain -> custom domain for api
