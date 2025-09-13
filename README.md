@@ -86,3 +86,6 @@ This theme is based off of the lovely [Bear Blog](https://github.com/HermanMarti
 -   feat 13: Turso
     -   [Turso](https://docs.astro.build/en/guides/astro-db/#connect-a-libsql-database-for-production)
 -   feat 14: GET individual client - Turso
+-   feat 15: Deploy to Vercel
+    -   [@astrojs/vercel](https://docs.astro.build/en/guides/integrations-guide/vercel/)
+    -   [Website UI deployment](https://docs.astro.build/en/guides/deploy/vercel/#how-to-deploy)
